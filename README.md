@@ -1,7 +1,7 @@
 Django asset_server_url
 ===
 
-Provides the URL for an asset server, as a template context variable. Can be set through settings.py or by passing an environment variable to the app.
+Provides `{{ ASSET_SERVER_URL }}` (the URL for an asset server) as a template context variable. Can be set through settings.py or by passing an environment variable to the app.
 
 Setup
 ---
