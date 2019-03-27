@@ -1,6 +1,6 @@
     **Archived**
 
-    This project is being archived as we should no longer be using `ASSET_SERVER_URL` variables in our projects - it's more straightforwardly obviously & maintainable to simply write the URL `https://assets.ubuntu.com/v1/` directly, and it avoids the (over)engineering associated with maintaining and including this module.
+    This project is being archived as we should no longer be using `ASSET_SERVER_URL` variables in our projects - it's more straightforwardly obvious & maintainable to simply write the URL `https://assets.ubuntu.com/v1/` directly, and it avoids the (over)engineering associated with maintaining and including this module.
 
     If we ever do change that URL and need to replace it in projects, it's as simple as:
 
